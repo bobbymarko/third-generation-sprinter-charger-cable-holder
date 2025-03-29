@@ -2,7 +2,7 @@
 Fusion 360 and STL files for a cable holder for the center console on third generation (2019+) Mercedes Benz Sprinters with vents on the dash
 
 Instructions:
-1. Print with something that can withstand the high heat of a car dashboard. I used PETG. 
+1. Print with something that can withstand the high heat of a car dashboard. I used PETG and default filament settings (2 walls, 15% infill).
 2. Print 2 of charger-cable-holder-support.stl. Print on their sides for strength.
 3. Print 1 charger-cable-holder-face.stl. Print face down. Rotate diagonally across the bed and it'll fit on a 220x220 (I printed mine on a FlashForge Adventure 5M).
 4. Snap the two support pieces into the slots on the dashboard where the latches for panel door normally latch. Snap them into place by hooking the back of the support into the slot and then pushing the front down into the groove along the front of the compartment. Ensure they're spaced the correct distance apart to fit into the grooves on the faceplate by test fitting the spacing. Ensure the panel door closes as expected.
