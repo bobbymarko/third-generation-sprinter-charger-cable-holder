@@ -17,3 +17,6 @@ This is my first Fusion 360 project so I'm still learning. There's several impro
 5. Optimize height. I think we might be able to make the face a little shorter to minimize the height. It'll take some reconfiguration of the supports.
 6. Remove the need for glue. I think if the tolerance was tightened from 0.4mm to 0.2mm on the connection between the faceplate and the supports then glue might not be required. 
 
+![Cable holder installed](image-installed.jpg)
+![View of cable holder installation](image-installation.jpg)
+![Printing configuration](image-printing-configuration.png)
